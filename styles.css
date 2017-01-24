@@ -1,8 +1,8 @@
 body {
     width: 100%;
     max-width: 1024px;
-    margin: 0 auto;
-    background-color: #000;
+    margin: 1.2em;
+    background-color: #FFFFFF;
     font-size: 66%;
 }
 
@@ -17,8 +17,8 @@ header {
     padding: 1.875em 0;
 }
 
-header hi {
+header h1 {
     text-align: center;
 }
 
-TODO add an ID and class in HTML and CSS 
+TODO add an ID and class in HTML and CSS
