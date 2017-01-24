@@ -1,0 +1,22 @@
+body {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+    background-color: #000;
+    font-size: 66%;
+}
+
+header,
+main,
+footer {
+    background-color: blue;
+    font-size: 2em;
+}
+
+header {
+    padding: 1.875em 0;
+}
+
+header hi {
+    text-align: center;
+}
