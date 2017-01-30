@@ -31,6 +31,19 @@ nav ul li {
 	margin-right: 1em;
 	font-size: 0.75em;
 }
+div {
+    display: inline-block;
+}
+a {
+    text-decoration: none;
+    color: black
+}
+.button {
+    border: 2px solid red;
+    border-radius: 10px
+}
 
-
-TODO add an ID and class in HTML and CSS
+#center_button {
+    border-radius: 100px;
+    border: 10px dotted blue;
+}
